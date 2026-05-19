@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://atharva1763.github.io/sitemap.xml
