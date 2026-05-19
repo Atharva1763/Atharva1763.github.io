@@ -7,7 +7,7 @@ subtitle: Research Fellow @ <a href="https://www.microsoft.com/en-us/research/la
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false # rectangle photo, not circular
   more_info: >
     <p>Bengaluru, India</p>
     <p><a href="mailto:atharva1763@gmail.com">atharva1763@gmail.com</a></p>
