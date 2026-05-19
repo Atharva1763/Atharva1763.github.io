@@ -1,0 +1,218 @@
+cv:
+  name: Atharva Deshmukh
+  label: Research Intern, Microsoft Research
+  email: atharva1763@gmail.com
+  phone: "+91 86682 55873"
+  location: Bengaluru, India
+  image: ""
+  summary: >-
+    Computer Science engineer (B.Tech, IIT Patna 2025) working on LLM systems,
+    inference optimization, and NLP. Published at ACL 2023 and FAISys 2025.
+
+  social_networks:
+    - network: GitHub
+      username: Atharva1763
+    - network: LinkedIn
+      username: atharva1763
+
+  sections:
+    Education:
+      - institution: Indian Institute of Technology Patna
+        location: Patna, India
+        url: https://www.iitp.ac.in/
+        area: Computer Science and Engineering
+        studyType: B.Tech
+        start_date: 2021
+        end_date: 2025
+        score: "CPI: 8.48 / 10"
+        highlights:
+          - Founder of the Research Club at IIT Patna.
+          - Head of the Machine Learning Club, NJack.
+
+    Experience:
+      - company: Microsoft
+        position: Research Intern
+        location: Bengaluru, India
+        start_date: 2025-01
+        end_date: present
+        summary: >-
+          LLM inference optimization, congestion control, and renewable-powered
+          AI inference clusters.
+        highlights:
+          - Implemented token-level output reduction under congestion — +19% throughput, −25% energy.
+          - Built predictive scheduling models for output-length estimation in vLLM serving.
+          - Developing Heron, a power-, hardware- and workload-aware routing system for renewable-powered AI clusters.
+
+      - company: IBM Research
+        position: Hybrid Cloud Intern
+        location: Bengaluru, India
+        start_date: 2024-05
+        end_date: 2024-08
+        summary: >-
+          LLM training efficiency — loss curve analysis and early-stopping research.
+        highlights:
+          - Designed a novel loss-curve analysis framework for recommending optimal LLM training configs.
+          - Implemented a multi-modular Python codebase using Docker and OpenShift; used internally at IBM.
+          - Early-stopping algorithm achieved ~20% epoch reduction while preserving model performance.
+
+      - company: AI-NLP Lab, IIT Patna
+        position: Undergraduate Research Assistant
+        location: Patna, India
+        start_date: 2023-08
+        end_date: 2024-02
+        summary: >-
+          Multi-agent RL for negotiation; introduced the MPBS bargaining simulator.
+        highlights:
+          - Devised a multi-agent RL strategy to train bargaining models adapting to diverse buyer personalities.
+          - Introduced MPBS — a buyer-personality-aware negotiation simulator.
+          - Used UCB1 to train a seller agent demonstrating robust negotiation across personalities (Accenture-sponsored).
+
+      - company: CNeRG Lab, IIT Kharagpur
+        position: NLP Research Intern (Full-time)
+        location: Remote
+        start_date: 2023-05
+        end_date: 2023-08
+        highlights:
+          - Set up GPU job scheduling pipelines using HTCondor for high-throughput experiments.
+          - Worked with LangChain, LlamaIndex; trained Falcon, MPT, Llama models.
+          - Implemented QLoRA, LoRA, and adapter-tuning workflows.
+
+      - company: AI-NLP Lab, IIT Patna
+        position: Undergraduate Research Assistant
+        location: Patna, India
+        start_date: 2022-12
+        end_date: 2023-04
+        summary: Lay summarization of biomedical articles (ACL 2023 BioNLP workshop).
+        highlights:
+          - Three-step abstractive pipeline using SIMCLS for candidate generation and re-ranking.
+          - Achieved 2nd place on readability metrics with high ROUGE.
+          - Co-authored paper accepted at ACL 2023 BioLaySumm workshop.
+
+    Publications:
+      - title: "BeLLMan: Controlling LLM Congestion"
+        authors:
+          - Tella Rajashekhar Reddy
+          - Atharva Deshmukh
+          - Karan Tandon
+          - Rohan Gandhi
+          - Anjaly Parayil
+          - Debopam Bhattacherjee
+        publisher: "FAISys 2025"
+        releaseDate: 2025
+        summary: Token-level output reduction and predictive scheduling for LLM inference under congestion.
+
+      - title: "APTSumm at BioLaySumm Task 1: Biomedical Breakdown, Improving Readability by Relevancy-Based Selection"
+        authors:
+          - A.S. Poornash
+          - Atharva Deshmukh
+          - Archit Sharma
+          - Sriparna Saha
+        publisher: "ACL 2023 BioNLP Workshop"
+        releaseDate: 2023
+        url: https://aclanthology.org/2023.bionlp-1.61.pdf
+        summary: Three-step abstractive summarization pipeline for biomedical articles (2nd in readability).
+
+      - title: "Dynamic Negotiation Landscapes: MBPS and the Interplay of Buyer Personalities"
+        authors:
+          - Subrata Das
+          - Atharva Deshmukh
+          - Sriparna Saha
+          - Roshni Ramnani
+          - Anutosh Maitra
+          - Shubhashis Sengupta
+        publisher: "Neurocomputing (Under Review)"
+        releaseDate: 2025
+        url: https://arxiv.org/pdf/2510.15330
+        summary: A buyer-personality-aware negotiation simulator with UCB1-trained seller agents.
+
+      - title: "Can Language Models Persuade? Exploring the Persuasive Efficacy of Large Language and Vision-Language Models"
+        authors:
+          - Rohan Kirti
+          - Atharva Deshmukh
+          - Kiran Kumar Dugana
+          - Yash Rathore
+          - Shipra Shriparn
+          - Sriparna Saha
+          - Roshni R. Ramnani
+          - Anutosh Maitra
+        publisher: "Under Review"
+        releaseDate: 2025
+        summary: Studies the persuasive capability of LLMs and VLMs across diverse contexts.
+
+    Awards:
+      - title: 3rd Rank — Amazon ML Challenge Hackathon
+        date: 2024
+        awarder: Amazon
+        url: https://drive.google.com/file/d/1m79vvx1aFGrRI2Oas5mg6Vx64keL2MrX/view?usp=sharing
+        summary: Out of 1000+ participating teams.
+
+      - title: All India Rank 4 — JLR GearShift Code Rally
+        date: 2023
+        awarder: Jaguar Land Rover
+        url: https://drive.google.com/file/d/1TYbtsmfhkg1pmbjXXUAXkB9OzNk7qXex/view?usp=sharing
+        summary: Inter-IIT coding competition across all top IITs.
+
+      - title: 1st Place — Inter-IIT Tech Meet (NLP problem statement)
+        date: 2023
+        awarder: Inter-IIT Tech Meet
+        summary: Led an NLP team to a first-place finish in the DevRev problem statement.
+
+      - title: 17th Rank — KV Chess Nationals
+        date: 2017
+        awarder: Kendriya Vidyalaya Sangathan
+        url: https://drive.google.com/file/d/1HcT-X8TbrcCs1xkQSc8b0H77mqACHqk4/view?usp=sharing
+        summary: Representing the state of Maharashtra.
+
+    Projects:
+      - name: Domain-Specific Extractive Question-Answering
+        summary: BM25 + distillation-trained re-rankers; unanswerability detection up to 97% accuracy (DevRev, Inter-IIT 2022-23).
+        url: https://github.com/Atharva1763/Domain-Specific-Question-Answering-DevRev
+        start_date: 2022-12
+        end_date: 2023-02
+
+      - name: API-driven Multi-Step Query Resolution
+        summary: LangChain/ChromaDB chatbot for multi-step queries with dynamic API add/delete/update (DevRev, Inter-IIT 2023).
+        url: https://github.com/IIT-Patna-Inter-IIT-Tech-Meet/DevRev-chatbot-frontend
+        start_date: 2023-10
+        end_date: 2023-12
+
+      - name: Placement Portal
+        summary: HTML/CSS/PHP/MySQL portal with role-based interfaces for students, companies, alumni, TPC officers and admin.
+        url: https://github.com/Atharva1763/TPC-Portal-DBMS
+        start_date: 2023-04
+        end_date: 2023-05
+
+    Skills:
+      - name: Research Areas
+        icon: fa-solid fa-flask
+        keywords: "LLM Systems, NLP, Reinforcement Learning, Inference Optimization, Negotiation Agents, Summarization"
+
+      - name: ML Frameworks
+        icon: fa-solid fa-code
+        keywords: "PyTorch, vLLM, LangChain, LlamaIndex, HuggingFace, ChromaDB, SIMCLS"
+
+      - name: LLM Techniques
+        icon: fa-solid fa-microchip
+        keywords: "QLoRA, LoRA, Adapter Tuning, Knowledge Distillation, BM25 Re-ranking"
+
+      - name: Infra & Languages
+        icon: fa-solid fa-terminal
+        keywords: "Python, Docker, OpenShift, HTCondor, MySQL, HTML/CSS/PHP"
+
+    Activities:
+      - name: Founder — Research Club, IIT Patna
+        summary: Organised guest talks and poster sessions across departments.
+      - name: Head — Machine Learning Club, NJack (IIT Patna)
+        summary: Drove ML learning sessions and community programmes.
+      - name: Member — Dramatics Club, IIT Patna
+        summary: Performed in multiple stage productions.
+      - name: Volunteer — National Service Scheme (NSS)
+        summary: Community-service initiatives and campus drives.
+
+    Languages:
+      - name: English
+        summary: Fluent
+      - name: Hindi
+        summary: Native
+      - name: Marathi
+        summary: Native
