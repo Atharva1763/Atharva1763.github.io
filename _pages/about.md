@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Bengaluru, India</p>
     <p><a href="mailto:atharva1763@gmail.com">atharva1763@gmail.com</a></p>
-    <p>+91 86682 55873</p>
 
 selected_papers: true
 social: true
