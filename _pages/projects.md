@@ -3,8 +3,7 @@ layout: page
 title: projects & life
 permalink: /projects/
 description: Research projects, side projects, and the things I do outside the terminal — treks, theatre, chess, and clubs.
-nav: true
-nav_order: 3
+nav: false
 display_categories: [research, life]
 horizontal: false
 ---
