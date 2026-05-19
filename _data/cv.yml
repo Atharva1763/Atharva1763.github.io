@@ -1,6 +1,6 @@
 cv:
   name: Atharva Deshmukh
-  label: Research Intern, Microsoft Research
+  label: Research Fellow, Microsoft Research
   email: atharva1763@gmail.com
   phone: "+91 86682 55873"
   location: Bengaluru, India
@@ -30,18 +30,19 @@ cv:
           - Head of the Machine Learning Club, NJack.
 
     Experience:
-      - company: Microsoft
-        position: Research Intern
+      - company: Microsoft Research
+        position: Research Fellow
         location: Bengaluru, India
         start_date: 2025-01
         end_date: present
         summary: >-
-          LLM inference optimization, congestion control, and renewable-powered
-          AI inference clusters.
+          LLM inference optimization, congestion control, and sustainable AI inference;
+          core contributor to AI-Greenferencing — renewable-energy-aware inference clusters.
         highlights:
-          - Implemented token-level output reduction under congestion — +19% throughput, −25% energy.
-          - Built predictive scheduling models for output-length estimation in vLLM serving.
-          - Developing Heron, a power-, hardware- and workload-aware routing system for renewable-powered AI clusters.
+          - "Core contributor to **AI-Greenferencing**, Microsoft's initiative on power-, hardware-, and workload-aware routing for renewable-energy-powered AI inference clusters."
+          - "Implemented token-level output reduction under congestion — +19% throughput, −25% energy (BeLLMan, FAISys 2025)."
+          - "Built predictive scheduling models for output-length estimation in vLLM serving."
+          - "Developing Heron, the AI-Greenferencing routing layer that optimises performance of inference clusters under variable renewable-energy supply."
 
       - company: IBM Research
         position: Hybrid Cloud Intern

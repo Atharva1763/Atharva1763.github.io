@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined **Microsoft Research India** as a Research Intern, working on LLM inference optimization 🚀
+Joined **Microsoft Research India** as a Research Fellow — working on **AI-Greenferencing** (renewable-energy-aware AI inference) and LLM inference optimization 🚀

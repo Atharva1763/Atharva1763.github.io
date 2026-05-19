@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Intern @ <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> · B.Tech CSE, <a href="https://www.iitp.ac.in/">IIT Patna</a>
+subtitle: Research Fellow @ <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> · B.Tech CSE, <a href="https://www.iitp.ac.in/">IIT Patna</a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi! I'm **Atharva** — a Computer Science engineer (B.Tech, IIT Patna, 2025) currently working as a **Research Intern at Microsoft**, where I focus on **LLM inference optimization**, **congestion control**, and **renewable-powered AI clusters**.
+Hi! I'm **Atharva** — a Computer Science engineer (B.Tech, IIT Patna, 2025) currently working as a **Research Fellow at Microsoft Research India**, where I focus on **LLM inference optimization**, **congestion control**, and **sustainable AI inference**. I'm a core contributor to **AI-Greenferencing** — Microsoft's effort on power-, hardware-, and workload-aware routing for renewable-energy-powered AI inference clusters.
 
 My research lives at the intersection of **LLM systems**, **NLP**, and **applied ML**. I've published at [ACL 2023](https://aclanthology.org/2023.bionlp-1.61.pdf) and [FAISys 2025](#), with additional work currently under review at *Neurocomputing*. Previously, I interned at **IBM Research** (LLM training efficiency) and **CNeRG Lab, IIT Kharagpur** (NLP / efficient fine-tuning).
 
