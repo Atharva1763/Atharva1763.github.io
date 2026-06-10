@@ -91,13 +91,13 @@ cv:
     Publications:
       - title: "BeLLMan: Controlling LLM Congestion"
         authors:
-          - Tella Rajashekhar Reddy
-          - Atharva Deshmukh
+          - Tella Rajashekhar Reddy*
+          - Atharva Deshmukh*
           - Karan Tandon
           - Rohan Gandhi
           - Anjaly Parayil
           - Debopam Bhattacherjee
-        publisher: "FAISys 2025"
+        publisher: "FAISys 2025 (* equal contribution)"
         releaseDate: 2025
         summary: Token-level output reduction and predictive scheduling for LLM inference under congestion.
 
@@ -114,28 +114,28 @@ cv:
 
       - title: "Dynamic Negotiation Landscapes: MBPS and the Interplay of Buyer Personalities"
         authors:
-          - Subrata Das
-          - Atharva Deshmukh
+          - Subrata Das*
+          - Atharva Deshmukh*
           - Sriparna Saha
           - Roshni Ramnani
           - Anutosh Maitra
           - Shubhashis Sengupta
-        publisher: "Neurocomputing (Under Review)"
+        publisher: "Neurocomputing (Under Review, * equal contribution)"
         releaseDate: 2025
         url: https://arxiv.org/pdf/2510.15330
         summary: A buyer-personality-aware negotiation simulator with UCB1-trained seller agents.
 
       - title: "Can Language Models Persuade? Exploring the Persuasive Efficacy of Large Language and Vision-Language Models"
         authors:
-          - Rohan Kirti
-          - Atharva Deshmukh
+          - Rohan Kirti*
+          - Atharva Deshmukh*
           - Kiran Kumar Dugana
           - Yash Rathore
           - Shipra Shriparn
           - Sriparna Saha
           - Roshni R. Ramnani
           - Anutosh Maitra
-        publisher: "Under Review"
+        publisher: "Under Review (* equal contribution)"
         releaseDate: 2025
         summary: Studies the persuasive capability of LLMs and VLMs across diverse contexts.
 
