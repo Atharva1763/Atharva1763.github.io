@@ -89,6 +89,22 @@ cv:
           - Co-authored paper accepted at ACL 2023 BioLaySumm workshop.
 
     Publications:
+      - title: "XWind: A Cross-site Router for Large Language Model Inference Serving at Renewable Energy Farms"
+        authors:
+          - Tella Rajashekhar Reddy*
+          - Atharva Deshmukh
+          - Liangcheng Yu
+          - Chaojie Zhang
+          - Mike Shepperd
+          - Rohan Gandhi
+          - Anjaly Parayil
+          - Srinivasan Iyengar
+          - Ajay Manchepalli
+          - Debopam Bhattacherjee
+        publisher: "arXiv Preprint"
+        releaseDate: 2026
+        summary: A cross-site router for LLM inference serving at renewable-energy farms, balancing performance under variable energy supply across distributed sites.
+
       - title: "BeLLMan: Controlling LLM Congestion"
         authors:
           - Tella Rajashekhar Reddy*
@@ -103,11 +119,11 @@ cv:
 
       - title: "APTSumm at BioLaySumm Task 1: Biomedical Breakdown, Improving Readability by Relevancy-Based Selection"
         authors:
-          - A.S. Poornash
-          - Atharva Deshmukh
-          - Archit Sharma
+          - A.S. Poornash*
+          - Atharva Deshmukh*
+          - Archit Sharma*
           - Sriparna Saha
-        publisher: "ACL 2023 BioNLP Workshop"
+        publisher: "ACL 2023 BioNLP Workshop (* equal contribution)"
         releaseDate: 2023
         url: https://aclanthology.org/2023.bionlp-1.61.pdf
         summary: Three-step abstractive summarization pipeline for biomedical articles (2nd in readability).
@@ -127,17 +143,17 @@ cv:
 
       - title: "Can Language Models Persuade? Exploring the Persuasive Efficacy of Large Language and Vision-Language Models"
         authors:
-          - Rohan Kirti*
-          - Atharva Deshmukh*
+          - Rohan Kirti
+          - Atharva Deshmukh
           - Kiran Kumar Dugana
           - Yash Rathore
           - Shipra Shriparn
           - Sriparna Saha
           - Roshni R. Ramnani
           - Anutosh Maitra
-        publisher: "Under Review (* equal contribution)"
+        publisher: "Computer Speech & Language"
         releaseDate: 2025
-        summary: Studies the persuasive capability of LLMs and VLMs across diverse contexts.
+        summary: Studies the persuasive capability of LLMs and VLMs across diverse contexts and modalities.
 
     Awards:
       - title: 3rd Rank — Amazon ML Challenge Hackathon
