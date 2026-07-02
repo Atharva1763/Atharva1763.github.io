@@ -406,7 +406,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-bellman-controlling-llm-congestion-has-been-accepted-at-faisys-2025",
           title: 'Our paper BeLLMan: Controlling LLM Congestion has been accepted at FAISys 2025 🎉...',
           description: "",
-          section: "News",},{id: "news-new-preprint-xwind-a-cross-site-router-for-llm-inference-serving-at-renewable-energy-farms-is-up-on-arxiv-️",
+          section: "News",},{id: "news-new-preprint-xwind-a-cross-site-router-for-llm-inference-serving-at-renewable-energy-farms-under-review-at-asplos-2027-️",
           title: 'New preprint! XWind: A Cross-site Router for LLM Inference Serving at Renewable Energy...',
           description: "",
           section: "News",},{id: "projects-domain-specific-extractive-qa",
