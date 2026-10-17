@@ -92,8 +92,8 @@ cv:
     Publications:
       - title: "XWind: A Cross-site Router for Large Language Model Inference Serving at Renewable Energy Farms"
         authors:
-          - Tella Rajashekhar Reddy
-          - Atharva Deshmukh
+          - Tella Rajashekhar Reddy*
+          - Atharva Deshmukh*
           - Liangcheng Yu
           - Chaojie Zhang
           - Mike Shepperd
@@ -102,8 +102,8 @@ cv:
           - Srinivasan Iyengar
           - Ajay Manchepalli
           - Debopam Bhattacherjee
-        publisher: "ASPLOS 2027 (Under Review)"
-        releaseDate: 2027
+        publisher: "SoCC 2026 (Accepted, * equal contribution)"
+        releaseDate: 2026
         summary: A cross-site router for LLM inference serving at renewable-energy farms, balancing performance under variable energy supply across distributed sites.
 
       - title: "BeLLMan: Controlling LLM Congestion"

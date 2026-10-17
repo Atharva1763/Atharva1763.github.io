@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint! **XWind: A Cross-site Router for LLM Inference Serving at Renewable Energy Farms** — under review at **ASPLOS 2027** 🌬️
+New preprint! **XWind: A Cross-site Router for LLM Inference Serving at Renewable Energy Farms**.
