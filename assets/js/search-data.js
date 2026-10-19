@@ -409,7 +409,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-xwind-a-cross-site-router-for-llm-inference-serving-at-renewable-energy-farms",
           title: 'New preprint! XWind: A Cross-site Router for LLM Inference Serving at Renewable Energy...',
           description: "",
-          section: "News",},{id: "news-xwind-a-cross-site-router-for-llm-inference-serving-at-renewable-energy-farms-has-been-accepted-at-socc-2026-tella-rajashekhar-reddy-and-i-contributed-equally",
+          section: "News",},{id: "news-xwind-a-cross-site-router-for-llm-inference-serving-at-renewable-energy-farms-has-been-accepted-at-socc-2026",
           title: 'XWind: A Cross-site Router for LLM Inference Serving at Renewable Energy Farms has...',
           description: "",
           section: "News",},{id: "projects-domain-specific-extractive-qa",
